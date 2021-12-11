@@ -4,8 +4,7 @@ from odoo import models, fields, api
 
 
 class revatua_link(models.Model):
-     _name = 'revatua_api'
-     _description = 'revatua_link.revatua_link'
+     _name = 'api.revatua'
 
 #     name = fields.Char()
 #     value = fields.Integer()
